@@ -70,3 +70,25 @@ img{
     margin: 10px;
     border-radius: 10px;
 }
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #fff7e6;
+    text-align: center;
+}
+
+h1{
+    color: #ff7a00;
+    margin-top: 40px;
+}
+
+h2{
+    color: #333;
+}
+
+p{
+    font-size: 18px;
+    color: #444;
+    max-width: 600px;
+    margin: auto;
+}
